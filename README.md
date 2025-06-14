@@ -21,7 +21,7 @@ This Flask-based API system allows registration of missing persons with their de
 ### 1. 🔧 Install Dependencies
 
 ```bash
-pip install flask face_recognition opencv-python numpy
+pip install -r requirements.txt
 ```
 
 If dlib is not installed (required for face recognition):
